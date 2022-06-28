@@ -1,5 +1,5 @@
 {
-  "name": "untitled2",
+  "name": "omegavue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "src": "^1.1.2",
+    "three": "^0.141.0",
+    "three-gltf-loader": "^1.111.0",
+    "threex": "^1.0.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {

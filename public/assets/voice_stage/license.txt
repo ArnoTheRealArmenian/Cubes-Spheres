@@ -1,0 +1,11 @@
+Model Information:
+* title:	"The Voice" stage./Голос
+* source:	https://sketchfab.com/3d-models/the-voice-stage-5f1df7861f3343a4a580abc27988a302
+* author:	gredder (https://sketchfab.com/mr_shulgin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on ""The Voice" stage./Голос" (https://sketchfab.com/3d-models/the-voice-stage-5f1df7861f3343a4a580abc27988a302) by gredder (https://sketchfab.com/mr_shulgin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
